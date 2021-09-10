@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(185, 225, 243);
+}
+
+nav {
+  margin: 11px;
+  text-align: center;
+  background-color: rgb(245, 176, 14);
+  padding: 12px;
+}
+.Guide {
+  background-image: url("https://www.ajot.com/images/uploads/article/djibouti-port-rendering.png");
+  background-color: greenyellow;
+  color: rgb(9, 5, 199);
+  padding: 25px;
+  text-align: center;
+  border: 5px;
+}
+
+.pres {
+  background-color: rgb(232, 169, 248);
+  color: rgb(48, 8, 129);
+}
+
+.contacte-nous {
+  background-color: rgb(228, 2, 2);
+  border-radius: 5px;
+  background-color: #f02c56;
+  padding: 20px;
+}
+
+#footer {
+  background-color: chocolate;
+  color: bold;
+  text-align: center;
+  padding: 15px;
+}
+
+#email {
+  background-color: rgb(28, 138, 146);
+  color: bold;
+  text-align: center;
+  padding: 15px;
+}
+#mylogo {
+  display: flex;
+  justify-content: space-between;
+}
